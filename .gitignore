@@ -1,0 +1,5 @@
+*.asm
+*.java.out
+*.mJAM
+*.mJAM.out
+*.class
