@@ -3,3 +3,5 @@
 *.mJAM
 *.mJAM.out
 *.class
+.DS_Store
+Test.java
